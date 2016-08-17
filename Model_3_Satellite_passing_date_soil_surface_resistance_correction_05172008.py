@@ -16,9 +16,6 @@ DEBUG = True
 
 # comments here
 
-
-lets do the work
-
 def CleanUpTmp(tDir):
     #Cleanup (remove) temporary files and rasters in the scratch workspace.
     for root, dirs, files in os.walk(tDir, topdown=False):
