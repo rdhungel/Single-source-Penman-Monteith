@@ -14,9 +14,10 @@ import sys
 
 DEBUG = True
 
-# Adding a test comment
-# One more comment
+# comments here
 
+
+lets do the work
 
 def CleanUpTmp(tDir):
     #Cleanup (remove) temporary files and rasters in the scratch workspace.
